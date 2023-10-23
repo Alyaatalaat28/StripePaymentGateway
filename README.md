@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+![Screenshot_20231023-185940](https://github.com/Alyaatalaat28/StripePaymentGateway/assets/78979377/f1dacaf9-0b2d-4070-93fb-86e098878732)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20231023-185933](https://github.com/Alyaatalaat28/StripePaymentGateway/assets/78979377/f9d80dea-a231-4342-94a6-1e9fcf9ee114)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+![Screenshot_20231023-191506](https://github.com/Alyaatalaat28/StripePaymentGateway/assets/78979377/7cd9f2c5-9156-41bc-8f00-b9840a074fa8)
+![Screenshot_20231023-191515](https://github.com/Alyaatalaat28/StripePaymentGateway/assets/78979377/de8191fb-e443-4173-89ff-11a4cbae6d9e)
